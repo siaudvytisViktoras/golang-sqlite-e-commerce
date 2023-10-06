@@ -1,5 +1,11 @@
 # golang-sqlite-e-commerce
 
+### Build
+```
+go build                        
+./golang-sqlite-e-commerce
+```
+### Structure
 ```
 golang-sqlite-e-commerce/
   ├── main.go
