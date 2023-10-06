@@ -26,4 +26,7 @@ _test_cache/
 .idea_modules/
 # Added for Golang
 /vendor/
+
+# Go executables
+golang-sqlite-e-commerce
 go.sum
