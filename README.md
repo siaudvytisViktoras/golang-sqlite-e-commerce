@@ -1,5 +1,6 @@
 # golang-sqlite-e-commerce
 
+```
 golang-sqlite-e-commerce/
   ├── main.go
   ├── handlers/
@@ -13,3 +14,4 @@ golang-sqlite-e-commerce/
   ├── config/
   │   └── config.go
   └── go.mod
+```
