@@ -1,0 +1,29 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Directory for the test log output
+_test/
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.pyc
+
+# Folders
+_test_cache/
+.vscode/
+.idea/
+.idea_modules/
+# Added for Golang
+/vendor/
+go.sum
